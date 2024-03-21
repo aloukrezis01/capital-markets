@@ -11,7 +11,7 @@ Throughout my professional experiences in financial services, I have developed a
 - Trade Reconciliations
 - ETL from data vendors, fund sponsors, market makers, prime brokers, exchanges, etc.
 
-I have developed and executed equity research and index model construction and data analysis across a wide range of fund strategies, including:
+I have developed and executed equity research & model construction, index model construction and general market data analysis across a wide range of fund strategies, including:
 - Growth
 - Thematic
 - Master Limited Partnerships (MLPs)
