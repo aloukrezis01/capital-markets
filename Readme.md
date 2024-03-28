@@ -33,3 +33,7 @@ The types of projects in this repository include:
 - **Portfolio Construction Models**: Sophisticated algorithms for precise index construction.
 - **Back Office Operational Efficiency Tools**: Solutions designed to optimize back-office functions, including trade reconciliations and fund accounting.
 - **Research Automation**: Tools that automate the collection and analysis of financial data, empowering your research capabilities.
+
+## Projects & Work Examples
+- Yahoo Finance API Data Pull
+- Date Cleaning Loop
