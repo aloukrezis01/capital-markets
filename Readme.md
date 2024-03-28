@@ -35,5 +35,13 @@ The types of projects in this repository include:
 - **Research Automation**: Tools that automate the collection and analysis of financial data, empowering your research capabilities.
 
 ## Projects & Work Examples
+
+#### Portfolio Construction Models
+- [Risk Parity](https://github.com/aloukrezis01/capital-markets/blob/master/Risk%20Parity.ipynb)
+
+#### Back Office Operational Efficiency Tools
 - [Yahoo Finance API Data Pull](https://github.com/aloukrezis01/capital-markets/blob/master/Yahoo%20Finance%20API%20Data%20Pull.ipynb)
 - [Date Cleaning Loop](https://github.com/aloukrezis01/capital-markets/blob/master/Date%20Cleaning%20Loop.ipynb)
+
+
+
