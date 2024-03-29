@@ -28,13 +28,15 @@ I have developed data sourcing, data cleaning, data modeling and performed ETL p
 
 The types of projects in this repository include:
 
-- **Equity Market Analysis Tools**: Advanced analytics to decipher market dynamics.
+- **Equity Market Analysis Models**: Advanced analytics to decipher market dynamics.
 - **Index Construction Models**: Sophisticated algorithms for precise index construction.
 - **Portfolio Construction Models**: Sophisticated algorithms for precise index construction.
 - **Back Office Operational Efficiency Tools**: Solutions designed to optimize back-office functions, including trade reconciliations and fund accounting.
 - **Research Automation**: Tools that automate the collection and analysis of financial data, empowering your research capabilities.
 
 ## Projects & Work Examples
+
+#### Equity Market Analysis Models
 
 #### Portfolio Construction Models
 - [Risk Parity](https://github.com/aloukrezis01/capital-markets/blob/master/Risk%20Parity.ipynb)
