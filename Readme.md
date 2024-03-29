@@ -45,6 +45,7 @@ The types of projects in this repository include:
 #### Back Office Operational Efficiency Tools
 - [Yahoo Finance API Data Pull](https://github.com/aloukrezis01/capital-markets/blob/master/Yahoo%20Finance%20API%20Data%20Pull.ipynb)
 - [Date Cleaning Loop](https://github.com/aloukrezis01/capital-markets/blob/master/Date%20Cleaning%20Loop.ipynb)
+- [ETF Position Tracker](https://github.com/aloukrezis01/capital-markets/blob/master/ETF%20Position%20Tracker.ipynb)
 
 
 ## [Disclosure](https://github.com/aloukrezis01/capital-markets/blob/master/Disclosure.md)
