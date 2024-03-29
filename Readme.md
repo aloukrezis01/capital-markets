@@ -37,6 +37,7 @@ The types of projects in this repository include:
 ## Projects & Work Examples
 
 #### Equity Market Analysis Models
+- [Venture Fund Analysis](https://github.com/aloukrezis01/capital-markets/blob/master/Venture%20Fund%20Analysis.ipynb)
 
 #### Portfolio Construction Models
 - [Risk Parity](https://github.com/aloukrezis01/capital-markets/blob/master/Risk%20Parity.ipynb)
