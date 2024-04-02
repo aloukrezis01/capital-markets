@@ -38,6 +38,7 @@ The types of projects in this repository include:
 
 #### Equity Market Analysis Models
 - [Biotech Fund Analysis](https://github.com/aloukrezis01/capital-markets/blob/master/Biotech%20Fund%20Analysis.ipynb)
+- [Concentrated Long Only Fund Analysis](https://github.com/aloukrezis01/capital-markets/blob/master/Concentrated%20Long%20Only%20Fund%20Analysis.ipynb)
 - [Venture Fund Analysis](https://github.com/aloukrezis01/capital-markets/blob/master/Venture%20Fund%20Analysis.ipynb)
 
 #### Portfolio Construction Models
