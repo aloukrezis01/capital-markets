@@ -28,9 +28,9 @@ I have developed data sourcing, data cleaning, data modeling and performed ETL p
 
 The types of projects in this repository include:
 
-- **Equity Market Analysis Models**: Advanced analytics to decipher market dynamics.
-- **Index Construction Models**: Sophisticated algorithms for precise index construction.
-- **Portfolio Construction Models**: Sophisticated algorithms for precise index construction.
+- **Equity Market Analysis Models**: Advanced analysis to decipher market dynamics.
+- **Index Construction Models**: Analysis and models for precise index construction.
+- **Portfolio Construction Models**: Analysis and models for optimized portfolio construction.
 - **Back Office Operational Efficiency Tools**: Solutions designed to optimize back-office functions, including trade reconciliations and fund accounting.
 - **Research Automation**: Tools that automate the collection and analysis of financial data, empowering your research capabilities.
 
